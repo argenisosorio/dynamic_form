@@ -1,0 +1,113 @@
+body {
+    background-color: #FFFFFF;
+}
+
+#completo {
+  height: 640px;
+  width:70%;
+  background-color: gray;
+  margin: auto;
+  border:ridge 1px;
+  border-radius: 7px;
+  margin-top: 12px;
+}
+
+#botonera {
+  background-color: gray;
+  width: 97%;
+  margin: auto;
+  margin-top: 15px;
+  /*border:ridge 1px;*/
+  border-radius: 7px !important;
+}
+
+#cuerpo {
+  background-color: #F2F2F2;
+  height: 86%;
+  width:97%;    
+  margin: auto;
+  overflow: auto;
+  border:ridge 1px;
+  margin-top: 15px;
+  border-radius: 7px;
+}
+
+#contenido {
+  background-color: #FFFFFF;
+  width:97%;
+  margin: auto;
+  margin-top: 15px;
+  border:ridge 1px;
+  border-radius: 7px;
+  text-align: center;
+}
+
+#form_area {
+  background-color: #FAFAFA;
+  width:95%;
+  margin: auto;
+  border-radius: 6px;
+  text-align: left;
+  margin-top: 12px !important;
+  padding: 10px;
+}
+
+.texto_corto {
+  background-color: #FFC0CB;
+  padding: 10px;
+  border: ridge 1px red;
+  border-radius: 6px;
+}
+
+.area_texto_corto {
+  background-color: #A9E2F3;
+  padding: 10px;
+  border: ridge 1px red;
+  border-radius: 6px;
+}
+
+.area_texto_largo {
+  background-color: #01DF3A;
+  padding: 10px;
+  border: ridge 1px red;
+  border-radius: 6px;
+}
+
+.seleccion {
+  background-color: #FFA500;
+  padding: 10px;
+  border: ridge 1px red;
+  border-radius: 6px;
+}
+
+.removeclass00 {
+  color: red;
+}
+
+.removeclass01 {
+  color: red;
+}
+
+.removeclass02 {
+  color: red;
+}
+
+.removeclass03 {
+  color: red;
+}
+
+.removeclassNOTA {
+  color: red;
+}
+
+#campos_minuta {
+  text-align: left;
+}
+
+.input_asunto {
+  width: 720px;
+}
+
+label {
+  /*font: bold 15px Arial;*/
+}
