@@ -41,6 +41,7 @@ return false;
 $("body").on("click", ".removeclass00", function() {
 	$(this).parent('div').remove();
 	x--;
+	texto_cortoFieldCount--;
 	return false;
 });
 
@@ -60,6 +61,7 @@ return false;
 $("body").on("click", ".removeclass01", function() {
 	$(this).parent('div').remove();
 	x--;
+	area_texto_cortoFieldCount--;
 	return false;
 });
 
@@ -79,6 +81,7 @@ return false;
 $("body").on("click", ".removeclass02", function() {
 	$(this).parent('div').remove();
 	x--;
+	area_texto_largoFieldCount--;
 	return false;
 });
 
@@ -98,6 +101,7 @@ return false;
 $("body").on("click", ".removeclass03", function() {
 	$(this).parent('div').remove();
 	x--;
+	seleccionFieldCount--;
 	return false;
 });
 
